@@ -1,0 +1,12 @@
+.idea/
+__pycache__/
+venv/
+.pytest_cache/
+htmlcov/
+.coverage/
+dist/
+.coverage
+pictures_for_README/
+gg.py
+Report_of_racing.egg-info/
+Race_report.egg-info/
